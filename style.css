@@ -1,0 +1,56 @@
+body{
+    
+margin: 0px;
+}
+
+a:visited{ color: fuchsia;} 
+div{ color: greenyellow ;
+display: inline;}
+h1 {
+	color: rgb(83, 35, 35);
+	font-family: roboto;
+    text-align: justify;
+    font-size: 60px; 
+    padding-top: 100px;
+    
+}
+h2{ 
+    color: tomato; 
+    font-size: 60px;
+}
+section {
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+} 
+p{ 
+    font-family: sans-serif; 
+    color:black;
+    font-size: 40px
+    ;
+}
+#menu{ 
+     
+    height: 50px;
+text-align: center; 
+vertical-align: middle ;
+padding: 20px;
+} 
+.navig{ 
+    color: red; 
+    margin: 0 10px;
+    padding: 10px; 
+    border: 15px double red;
+     background-color: white;
+    border-radius: 15px; 
+    width:  100px;
+    height: 60px;
+    
+    
+    
+
+}
+.navig:hover {
+    background-color: black;
+}
